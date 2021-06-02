@@ -4,6 +4,8 @@
 
 Simple mining application statistic reporter using Telegram Bot.
 
+![](https://github.com/drr3d/cryptomining_id/blob/main/cryptomining-stats-tgreporter/img/stats1.jpg)
+
 ## Table of Contents
 
 1. [Description](#chapter-001)
