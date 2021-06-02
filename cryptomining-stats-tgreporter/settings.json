@@ -1,0 +1,7 @@
+{
+	"miningsoft_cfg":{
+		"host":["localhost", "localhost"],
+		"port":["10500", "10501"]
+	},
+    "delay_time":600
+}
