@@ -1,4 +1,4 @@
-telegram-send==0.25
+#telegram-send==0.25
 tabulate==0.8.9
 requests-html==0.10.0
 beautifulsoup4==4.9.1
