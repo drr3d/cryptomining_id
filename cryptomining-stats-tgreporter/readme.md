@@ -10,7 +10,7 @@ Simple mining application statistic reporter using Telegram Bot.
 
 1. [Description](#chapter-001)
 2. [Requirements](#chapter-002)
-3. [Installation](#chapter-003)
+3. [Installation](#chapter-003)<br>
     3.1 [Configuration](#chapter-0031)<br>
 4. [Video Tutorial](#chapter-004)
 5. [List Supported Mining Software API](#chapter-005)
