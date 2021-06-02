@@ -64,7 +64,7 @@ if u want to clone the whole repo:
     * if u did right on all step, then telegram-send will send u a message on the phone apps and in the command promt. (step-3)
     * don't forget to give star to this awesome [developer](https://github.com/rahiel/telegram-send)
 
-    ![](https://github.com/drr3d/cryptomining_id/blob/main/cryptomining-stats-tgreporter/img/tgsend.png)
+    ![](https://github.com/drr3d/cryptomining_id/blob/main/cryptomining-stats-tgreporter/img/tgsend.jpg)
 
 ### 3.1 Configuration <a id="chapter-0031"></a>
 Configuration file located on [settings.json](https://github.com/drr3d/cryptomining_id/blob/main/cryptomining-stats-tgreporter/settings.json)
