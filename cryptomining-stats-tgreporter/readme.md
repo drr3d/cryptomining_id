@@ -109,6 +109,10 @@ You **must** adjust this file properly, based on how you configure Web API addre
     - When you configure mining software Web API Service to run, normally you must set this two values properly. you cannot just set
     **host** or **port**, you must set both of them.
 
+2. ```delay_time```
+    - set this to control how much time delay before statistics mining software data will be sent into telegram bot.
+    - default value is ```delay_time=600```, its around 600 second(+- 10 minute), this mean, every 600second, the application will send data into telegram bot
+
 ## 4. List Supported Mining Software API <a id="chapter-004"></a>
 
 - [GMiner v2.54](https://github.com/develsoftware/GMinerRelease/releases/tag/2.54)
