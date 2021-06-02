@@ -37,8 +37,8 @@ the rig, and you. Two-way communication using Telegram BOT, can be considered ju
 ## 3. Installation <a id="chapter-003"></a>
 I haven't decided whether to make this application into a separate repository, meantime u can download the whole repository
 or just download 2 file:
-1. cryptomining_stats_tgreporter.py
-2. settings.json
+1. [cryptomining_stats_tgreporter.py]](https://github.com/drr3d/cryptomining_id/blob/main/cryptomining-stats-tgreporter/cryptomining_stats_tgreporter.py)
+2. [settings.json](https://github.com/drr3d/cryptomining_id/blob/main/cryptomining-stats-tgreporter/settings.json)
 
 if u want to clone the whole repo:
 - Just download this repository, then extract it
@@ -60,11 +60,18 @@ if u want to clone the whole repo:
       telegram-send --configure
       ```
     * you need to paste your copied Telegram bot Token here. (step-1)
-    * after that, you also required to input confimation pin that telegram-send provide into your telegram apps on your phone. (step-2)
+    * after that, you also required to input password that telegram-send provided, into your telegram apps on your phone. (step-2)
     * if u did right on all step, then telegram-send will send u a message on the phone apps and in the command promt. (step-3)
     * don't forget to give star to this awesome [developer](https://github.com/rahiel/telegram-send)
 
     ![](https://github.com/drr3d/cryptomining_id/blob/main/cryptomining-stats-tgreporter/img/tgsend.jpg)
+
+- configure [settings.json](https://github.com/drr3d/cryptomining_id/blob/main/cryptomining-stats-tgreporter/settings.json)
+
+- run the main file:
+  ```bash
+  $ python cryptomining_stats_tgreporter.py
+  ```
 
 ### 3.1 Configuration <a id="chapter-0031"></a>
 Configuration file located on [settings.json](https://github.com/drr3d/cryptomining_id/blob/main/cryptomining-stats-tgreporter/settings.json)
