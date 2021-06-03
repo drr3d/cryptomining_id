@@ -35,6 +35,8 @@ the rig, and you. Two-way communication using Telegram BOT, can be considered ju
     * save the Token provided by **BotFather** for later use.
     
     <img src="https://github.com/drr3d/cryptomining_id/blob/main/cryptomining-stats-tgreporter/img/bottoken.jpg" width="500" height="400">
+
+> If you accidentaly forget the bot token, do not worry, u can always manage your bot from BotFather via command: ```/mybots```
     
 
 ## 3. Installation <a id="chapter-003"></a>
