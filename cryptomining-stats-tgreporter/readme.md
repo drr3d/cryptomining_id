@@ -33,6 +33,7 @@ the rig, and you. Two-way communication using Telegram BOT, can be considered ju
 
 - you need to create Telegram BOT, using your Telegram Apps, then find **BotFather**
     * save the Token provided by **BotFather** for later use.
+    ![](https://github.com/drr3d/cryptomining_id/blob/main/cryptomining-stats-tgreporter/img/bottoken.jpg)
 
 ## 3. Installation <a id="chapter-003"></a>
 I haven't decided whether to make this application into a separate repository, meantime u can download the whole repository
